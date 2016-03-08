@@ -3,7 +3,7 @@
 #
 # Copyright (c) 2016 John Graham-Cumming
 
-from scapy.all import *
+from scapy.all import Ether, sniff
 import time
 
 # Dictionary of buttons identifed by MAC address. The value for each
