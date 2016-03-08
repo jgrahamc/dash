@@ -1,0 +1,3 @@
+dnet-real==1.12
+pcapy==0.10.10
+scapy==2.3.2
